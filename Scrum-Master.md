@@ -24,6 +24,8 @@
 
 - [Viewing the Scrum Master as a Team Member](http://www.spikesandstories.com/viewing-scrum-master-team-member/) - by Tanner
 
+- [Ten sentences with all the Scrum Master advice you’ll ever need](https://www.mountaingoatsoftware.com/blog/ten-sentences-with-all-the-scrum-master-advice-youll-ever-need) - by Mike Cohn
+
 ### Books
 
 - [Confessions of a Scrum Master](https://www.infoq.com/minibooks/confessions-scrum-master) - by Paul VII
