@@ -8,4 +8,4 @@
 
 - [The Backlog (aka Wishing Well)](https://medium.com/@johnpcutler/the-backlog-aka-wishing-well-122b939b2f87) - by John Cutler. "[A] list of some backlog gotchas and challenges..."
 
-- [https://drive.google.com/file/d/1bcX_7eJ9iXFygShK0OleZkZy41tY1-0d/view](Breaking down Product Backlog Items, a cheatsheet)
+- [Breaking down Product Backlog Items, a cheatsheet](https://drive.google.com/file/d/1bcX_7eJ9iXFygShK0OleZkZy41tY1-0d/view)
